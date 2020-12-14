@@ -5,7 +5,7 @@
 Clone & install libraries
 ```bash
 git clone https://github.com/YashKwatra/yash92.git
-cd 
+cd yash92
 
 npm i
 ```
