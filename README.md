@@ -4,7 +4,7 @@
 
 Clone & install libraries
 ```bash
-git clone 
+git clone https://github.com/YashKwatra/yash92.git
 cd 
 
 npm i
