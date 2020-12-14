@@ -1,0 +1,16 @@
+{
+    "name": "yash",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "node-fetch": "^2.6.1",
+        "validator": "^13.5.2",
+        "yargs": "^16.2.0"
+    }
+}
