@@ -24,7 +24,7 @@ eg:
     - ```--file="paths.tx"``` is not **valid**
     - ```--file="paths.pdf"``` is not **valid**
 
-- ```---url``` argument to this must be a string valid url containing protocol. eg: 
+- ```--url``` argument to this must be a string valid url containing protocol. eg: 
     - ```--url="https://github.com"``` is **valid**
     - ```--url="http://github.com"``` is **not** **valid**
     - ```--url="github.com"``` is **not** **valid**
